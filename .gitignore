@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/SignalQuiz.WebApp/Properties/ServiceDependencies/dynDev-SignalQuiz - Web Deploy/profile.arm.json
+/SignalQuiz.WebApp/Properties/ServiceDependencies/dynDev-SignalQuiz - Web Deploy1/profile.arm.json
